@@ -1,13 +1,12 @@
 # TryBranch X Ralph
 
-****TryBranch is a link in bio tool built using [Astro]****
+TryBranch is a link in bio tool built using [Astro]
 
-
-_**TryBranch Team (Aug 22nd - Present)**_
+[TryBranch Team] (Aug 22nd - Present)
 
 - Ralph Lopez (Developer & UI/UX Designer)
 
 
-_**Demo Site**_
 
-View the [Demo Site](https://ralphlopez.netlify.app/)
+
+View the [Demo Site]()
