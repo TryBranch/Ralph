@@ -3,7 +3,6 @@
 ****TryBranch is a link in bio tool built using [Astro]****
 
 
-
 _**TryBranch Team (Aug 22nd - Present)**_
 
 - Ralph Lopez (Developer & UI/UX Designer)
