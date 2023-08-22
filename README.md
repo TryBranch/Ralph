@@ -10,4 +10,4 @@ _**TryBranch Team (Aug 22nd - Present)**_
 
 _**Demo Site**_
 
-View the [Demo Site] (ralphlopez.netlify.app)
+View the [Demo Site](ralphlopez.netlify.app)
