@@ -31,13 +31,16 @@ export const socialLinks = [
 
 export const links = [
   {
-    text: 'Home',
+    text: 'Schudle Meeting',
     url: '',
     featured: true,
   },
   {
-    text: 'N/A',
+    text: 'Next Corner',
     url: '',
   },
- 
+  {
+    text: 'Contact',
+    url: '',
+  }
 ]
