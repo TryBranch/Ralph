@@ -10,22 +10,22 @@ export const socialLinks = [
   {
     title: 'Linkedin',
     icon: 'mdi:linkedin',
-    url: '',
+    url: 'https://www.linkedin.com/in/ralphalopez/',
   },
   {
-    title: 'Github',
-    icon: 'mdi:github  ',
-    url: '',
+    title: 'email',
+    icon: 'mdi:gmail',
+    url: 'https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNtdgsgPWbWKHPcQDdWkgfVscMzRRZJdFrGVgStxvgGZmLtZzxbnGmwKwDBkcBxTdMVxtg',
   },
   {
     title: 'Instagram',
     icon: 'mdi:instagram  ',
-    url: '',
+    url: 'https://www.instagram.com/26.ral/',
   },
   {
-    title: 'discord',
-    icon: 'mdi:discord',
-    url: '',
+    title: 'Github',
+    icon: 'mdi:github  ',
+    url: 'https://github.com/LopezAnthonyRalph',
   }
 ]
 
@@ -36,15 +36,8 @@ export const links = [
     featured: true,
   },
   {
-    text: 'About',
+    text: 'N/A',
     url: '',
   },
-  {
-    text: 'Uses',
-    url: '',
-  },
-  {
-    text: 'See my latest blog post!',
-    url: '',
-  }
+ 
 ]
