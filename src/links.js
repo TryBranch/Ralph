@@ -32,12 +32,12 @@ export const socialLinks = [
 export const links = [
   {
     text: 'Schudle Meeting',
-    url: '',
+    url: 'https://calendly.com/lopezralph/meeting?month=2023-08',
     featured: true,
   },
   {
     text: 'Next Corner',
-    url: '',
+    url: 'https://www.instagram.com/appnextcorner/',
   },
   {
     text: 'Contact',
