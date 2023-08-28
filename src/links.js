@@ -1,6 +1,6 @@
 export const mainContent = {
   imgSrc: `/assets/ralph.png`,
-  name: `@ Ralph`,
+  name: `@Ralph`,
   tagline: ``,
 };
 
@@ -31,7 +31,7 @@ export const socialLinks = [
 
 export const links = [
   {
-    text: 'Schudle Meeting',
+    text: 'Schedule Meeting',
     url: 'https://calendly.com/lopezralph/meeting?month=2023-08',
     featured: true,
   },
@@ -41,6 +41,6 @@ export const links = [
   },
   {
     text: 'Contact',
-    url: '',
+    url: 'https://www.cognitoforms.com/RalphLopez1/Contact',
   }
 ]
